@@ -1,14 +1,24 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{13BB6518-DB74-EE5D-525E-AAAC3A6F9493}") = "Dao", "Assembly-CSharp-firstpass.csproj", "{52EC4F20-CC7C-3CCB-D80D-05AB58238EE0}"
+EndProject
+Project("{13BB6518-DB74-EE5D-525E-AAAC3A6F9493}") = "Dao", "Assembly-CSharp-Editor.csproj", "{491E4ABC-1606-68B0-D341-703423B6F6C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{52EC4F20-CC7C-3CCB-D80D-05AB58238EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52EC4F20-CC7C-3CCB-D80D-05AB58238EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52EC4F20-CC7C-3CCB-D80D-05AB58238EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52EC4F20-CC7C-3CCB-D80D-05AB58238EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{491E4ABC-1606-68B0-D341-703423B6F6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491E4ABC-1606-68B0-D341-703423B6F6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491E4ABC-1606-68B0-D341-703423B6F6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491E4ABC-1606-68B0-D341-703423B6F6C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
