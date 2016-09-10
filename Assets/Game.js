@@ -1,6 +1,6 @@
 ﻿#pragma strict
 var offset :Vector3;
-var scale :Vector3 = new Vector3(128,128,1);
+var scale :Vector3 = new Vector3( 175, 175, 1);
 var playing_piece :RectTransform;
 private var p1_pieces :Array;
 private var p2_pieces :Array;
